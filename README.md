@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Grade College Calculator
+
+This project calculate the final grades of a university student
